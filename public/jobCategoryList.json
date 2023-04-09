@@ -1,0 +1,26 @@
+[
+  {
+    "id":2519,
+    "image": "../src/assets/tech.png",
+    "title": "Information Technology",
+    "jobs_available": 3500
+  },
+  {
+    "id":2192,
+    "image": "../src/assets/finance.png",
+    "title": "Finance",
+    "jobs_available": 2100
+  },
+  {
+    "id":5192,
+    "image": "../src/assets/healthcare.png",
+    "title": "Healthcare",
+    "jobs_available": 4500
+  },
+  {
+    "id":2512,
+    "image": "../src/assets/sales.png",
+    "title": "Sales",
+    "jobs_available": 2800
+  }
+]
