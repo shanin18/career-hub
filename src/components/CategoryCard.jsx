@@ -8,7 +8,7 @@ const CategoryCard = ({category}) => {
             <img src={image} alt="" className='w-16' />
            <div>
            <h4 className='text-[#474747] font-bold text-xl'>{title}</h4>
-            <p className='text-[#A3A3A3]'>{jobs_available} Jobs Available</p>
+            <p className='text-[#A3A3A3] mt-3'>{jobs_available} Jobs Available</p>
            </div>
         </div>
     );

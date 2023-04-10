@@ -3,7 +3,8 @@ import React from 'react';
 const Blog = () => {
     return (
         <div>
-            <h2>this is blog</h2>
+            <h1>When should you use context API?</h1>
+            <p></p>
         </div>
     );
 };
