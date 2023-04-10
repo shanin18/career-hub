@@ -21,12 +21,10 @@ const FeaturedJobs = () => {
       </div>
       <div className="grid md:grid-cols-2 gap-6 mt-8">
         {!seeAll
-          ? jobs
-              .slice(0, 4)
-              .map((job) => (
+          ? jobs?.slice(0, 4)?.map((job) => (
                 <FeaturedCard key={job.id} job={job}></FeaturedCard>
               ))
-          : jobs.map((job) => (
+          : jobs?.map((job) => (
               <FeaturedCard key={job.id} job={job}></FeaturedCard>
             ))}
       </div>
