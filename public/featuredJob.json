@@ -22,7 +22,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png",
     "title": "Marketing Manager",
     "company": "Google",
-    "type": ["Onsite","Full Time"],
+    "type": ["Onsite", "Full Time"],
     "location": "San Francisco, CA",
     "employment": "Full-time",
     "salary": "90k-110k",
@@ -88,8 +88,7 @@
       "phone": "555-555-5555",
       "email": "jobs@techsolutions.com"
     }
-  }
-,  
+  },
   {
     "id": "6246",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wx1GHQatfUxGtnZ6C0wTOIIF0m5YTsq4DQ&usqp=CAU",
@@ -107,8 +106,7 @@
       "phone": "777-777-7777",
       "email": "jobs@bigdatasolutions.com"
     }
-  }
-,  
+  },
   {
     "id": "7175",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1200px-Coca-Cola_logo.svg.png",
@@ -126,14 +124,13 @@
       "phone": "444-444-4444",
       "email": "jobs@growthindustries.com"
     }
-  }
-,  
+  },
   {
     "id": "8246",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/2560px-Walmart_logo.svg.png",
     "title": "Human Resources Manager",
     "company": "Walmart",
-    "type": ["Remote","Full Time"],
+    "type": ["Remote", "Full Time"],
     "location": "Miami, FL",
     "employment": "Full-time",
     "salary": "90k-100k",
@@ -146,5 +143,4 @@
       "email": "jobs@hrsolutions.com"
     }
   }
-  
 ]

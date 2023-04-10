@@ -6,3 +6,6 @@
     @apply bg-gradient-to-r bg-clip-text text-transparent font-semibold from-[#7E90FE] via-purple-400 to-[#9873FF] animate-text
 }
 
+.gradient-button{
+    @apply bg-gradient-to-r from-[#7E90FE] to-[#9873FF] font-bold text-white px-5 py-3 rounded mt-6
+}
