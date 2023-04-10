@@ -5,7 +5,7 @@ import { Link, NavLink } from "react-router-dom";
 const Header = () => {
   return (
     <nav>
-      <div className="container mx-auto flex items-center justify-between">
+      <div className="container mx-auto flex items-center justify-between py-3">
         <Link to="/">
           <div className="flex items-center">
             <img src={logo} alt="logo" className="w-20" />
