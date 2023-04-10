@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
-      <div className="container mx-auto h-[100vh - 681px]">
+      <div className="container mx-auto h-[100vh - 681px] my-32">
         <Outlet></Outlet>
       </div>
       <Footer></Footer>

@@ -1,0 +1,150 @@
+[
+  {
+    "id": "1453",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png",
+    "title": "Software Engineer",
+    "company": "Amazon",
+    "type": ["Remote", "Full Time"],
+    "location": "New York, NY",
+    "employment": "Full-time",
+    "salary": "100k-120k",
+    "description": "We are looking for an experienced software engineer to join our team.",
+    "education": "Bachelor's degree in Computer Science or related field",
+    "responsibility": "Design and develop software applications, Write clean and maintainable code, Collaborate with cross-functional teams",
+    "experience": "5+ years of experience in software engineering",
+    "contact": {
+      "phone": "123-456-7890",
+      "email": "jobs@abccompany.com"
+    }
+  },
+  {
+    "id": "2266",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png",
+    "title": "Marketing Manager",
+    "company": "Google",
+    "type": ["Onsite","Full Time"],
+    "location": "San Francisco, CA",
+    "employment": "Full-time",
+    "salary": "90k-110k",
+    "description": "We are seeking a talented marketing manager to lead our marketing efforts.",
+    "education": "Bachelor's degree in Marketing or related field",
+    "responsibility": "Develop and implement marketing strategies, Manage campaigns and projects, Analyze marketing data",
+    "experience": "7+ years of experience in marketing",
+    "contact": {
+      "phone": "555-555-5555",
+      "email": "jobs@xyzcorp.com"
+    }
+  },
+  {
+    "id": "3372",
+    "logo": "https://1000logos.net/wp-content/uploads/2017/04/Microsoft-logo.jpg",
+    "title": "Graphic Designer",
+    "company": "Microsoft",
+    "type": ["Remote", "Full Time"],
+    "location": "Seattle, WA",
+    "employment": "Part-time",
+    "salary": "50k-60k",
+    "description": "We are seeking a creative graphic designer to join our team.",
+    "education": "Bachelor's degree in Graphic Design or related field",
+    "responsibility": "Design marketing materials and visual assets, Collaborate with creative team, Present designs to clients",
+    "experience": "3+ years of experience in graphic design",
+    "contact": {
+      "phone": "111-111-1111",
+      "email": "jobs@123designstudio.com"
+    }
+  },
+  {
+    "id": "4175",
+    "logo": "https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-15.png",
+    "title": "Customer Service Representative",
+    "company": "Facebook",
+    "type": ["Onsite", "Full Time"],
+    "location": "Houston, TX",
+    "employment": "Full-time",
+    "salary": "30k-35k",
+    "description": "We are looking for a friendly and customer-focused representative to join our team.",
+    "education": "High School Diploma or equivalent",
+    "responsibility": "Respond to customer inquiries and resolve issues, Maintain accurate customer records, Collaborate with cross-functional teams",
+    "experience": "1+ years of customer service experience",
+    "contact": {
+      "phone": "999-999-9999",
+      "email": "jobs@acmecorp.com"
+    }
+  },
+  {
+    "id": "5841",
+    "logo": "https://www.vectorlogo.zone/logos/apple/apple-ar21.png",
+    "title": "Software Engineer",
+    "company": "Apple",
+    "type": ["Remote", "Full Time"],
+    "location": "New York, NY",
+    "employment": "Full-time",
+    "salary": "100k-120k",
+    "description": "We are seeking a software engineer to develop and maintain our web applications.",
+    "education": "Bachelor's degree in Computer Science or related field",
+    "responsibility": "Develop and maintain web applications, Write clean, maintainable code, Collaborate with cross-functional teams",
+    "experience": "3+ years of experience in software development",
+    "contact": {
+      "phone": "555-555-5555",
+      "email": "jobs@techsolutions.com"
+    }
+  }
+,  
+  {
+    "id": "6246",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wx1GHQatfUxGtnZ6C0wTOIIF0m5YTsq4DQ&usqp=CAU",
+    "title": "Data Analyst",
+    "company": "Tesla",
+    "type": ["Remote", "Full Time"],
+    "location": "Chicago, IL",
+    "employment": "Full-time",
+    "salary": "80k-90k",
+    "description": "We are seeking a data analyst to help us make data-driven decisions.",
+    "education": "Bachelor's degree in Statistics or related field",
+    "responsibility": "Collect and analyze data, Create reports and visualizations, Collaborate with cross-functional teams",
+    "experience": "3+ years of experience in data analysis",
+    "contact": {
+      "phone": "777-777-7777",
+      "email": "jobs@bigdatasolutions.com"
+    }
+  }
+,  
+  {
+    "id": "7175",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1200px-Coca-Cola_logo.svg.png",
+    "title": "Sales Representative",
+    "company": "Coca-Cola",
+    "type": ["Onsite", "Full Time"],
+    "location": "Los Angeles, CA",
+    "employment": "Full-time",
+    "salary": "60k-70k",
+    "description": "We are seeking a motivated sales representative to help us grow our business.",
+    "education": "Bachelor's degree in Business or related field",
+    "responsibility": "Generate new business leads, Manage sales pipeline, Develop and maintain relationships with clients",
+    "experience": "2+ years of experience in sales",
+    "contact": {
+      "phone": "444-444-4444",
+      "email": "jobs@growthindustries.com"
+    }
+  }
+,  
+  {
+    "id": "8246",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/2560px-Walmart_logo.svg.png",
+    "title": "Human Resources Manager",
+    "company": "Walmart",
+    "type": ["Remote","Full Time"],
+    "location": "Miami, FL",
+    "employment": "Full-time",
+    "salary": "90k-100k",
+    "description": "We are seeking an experienced HR manager to oversee our HR operations.",
+    "education": "Bachelor's degree in Human Resources or related field",
+    "responsibility": "Manage employee relations, Develop and implement HR policies and procedures, Manage recruitment and onboarding process",
+    "experience": "5+ years of experience in HR",
+    "contact": {
+      "phone": "888-888-8888",
+      "email": "jobs@hrsolutions.com"
+    }
+  }
+  
+]

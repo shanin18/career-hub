@@ -3,5 +3,6 @@
 @tailwind utilities;
 
 .animation-text{
-    @apply bg-gradient-to-r bg-clip-text  text-transparent font-semibold from-[#7E90FE] via-purple-400 to-[#9873FF] animate-text
+    @apply bg-gradient-to-r bg-clip-text text-transparent font-semibold from-[#7E90FE] via-purple-400 to-[#9873FF] animate-text
 }
+
