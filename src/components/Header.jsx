@@ -1,10 +1,12 @@
 import React from "react";
 import logo from "../assets/logo1.png";
 import { Link, NavLink } from "react-router-dom";
+import Banner from "./Banner";
 
 const Header = () => {
   return (
-    <nav>
+    <div>
+      <nav>
       <div className="container mx-auto flex items-center justify-between py-3">
         <Link to="/">
           <div className="flex items-center">
@@ -53,6 +55,9 @@ const Header = () => {
         </div>
       </div>
     </nav>
+    <Banner></Banner>
+    </div>
+    
   );
 };
 

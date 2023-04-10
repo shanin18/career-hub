@@ -4,11 +4,7 @@ import FeaturedCard from "./FeaturedCard";
 
 const FeaturedJobs = () => {
   const [seeAll, setSeeAll] = useState(false);
-  const [jobs, setJobs] = useState([]);
-  const data = useLoaderData();
-  useEffect(() => {
-    setJobs(data);
-  }, []);
+  const jobs = useLoaderData();
 
   return (
     <div className="mt-32 mx-2">
