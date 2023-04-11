@@ -19,7 +19,7 @@ const Header = () => {
           </Link>
         </div>
 
-        <div onClick={() => setIsOpen(!isOpen)} className="lg:hidden">
+        <div onClick={() => setIsOpen(!isOpen)} className="lg:hidden mr-3 md:mr-3">
           {isOpen ? (
             <Bars3BottomRightIcon className="w-6 h-6"></Bars3BottomRightIcon>
           ) : (
