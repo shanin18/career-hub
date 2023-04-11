@@ -22,7 +22,7 @@ const FeaturedCard = ({ job }) => {
           ))}
         </div>
 
-        <div className="flex items-center gap-5">
+        <div className="flex flex-wrap items-center gap-5">
           <p className="text-[#757575] flex gap-1">
             <MapPinIcon className="h-5 w-5 " />
             {location}

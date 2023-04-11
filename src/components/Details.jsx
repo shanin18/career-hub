@@ -56,8 +56,10 @@ const Details = () => {
   } = details;
 
   return (
-    <div className="md:flex justify-between mx-2">
-      <div className="md:w-3/6 flex flex-col gap-6">
+    <div className="container mx-auto my-32 px-2">
+      <h2 className="text-center font-bold text-[#1A1919] text-3xl mb-28">Job Details</h2>
+      <div className="grid lg:grid-cols-2 gap-10">
+      <div className="flex flex-col gap-6">
         <p className="text-[#757575] text-lg">
           <span className="font-bold text-[#1A1919]">Job Description: </span>{" "}
           {description}
@@ -77,7 +79,7 @@ const Details = () => {
           <br /> {experience}
         </p>
       </div>
-      <div className="md:w-3/6 lg:w-2/6 mt-8 md:mt-0">
+      <div className="mt-8 md:mt-0">
         <div className="bg-[#9873ff15] p-7 rounded-lg">
           <h4 className="text-xl font-bold ">Job Details</h4>
           <div className="border border-[#d0beff] my-6"></div>
@@ -115,6 +117,7 @@ const Details = () => {
         <button onClick={()=> handleApplyNow(id)} className="bg-gradient-to-r from-[#7E90FE] to-[#9873FF] font-semibold text-white py-4 text-xl w-full rounded-lg mt-6">
           Apply Now
         </button>
+      </div>
       </div>
     </div>
   );

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { useLoaderData } from "react-router-dom";
 import FeaturedCard from "./FeaturedCard";
 
@@ -7,9 +7,9 @@ const FeaturedJobs = () => {
   const jobs = useLoaderData();
 
   return (
-    <div className="mt-32 mx-2">
+    <div className=" container mx-auto  my-32 px-2">
       <div className="text-center">
-        <h2 className="font-bold text-5xl">Featured Jobs</h2>
+        <h2 className="font-bold text-4xl md:text-5xl">Featured Jobs</h2>
         <p className="mt-6 text-[#757575]">
           Explore thousands of job opportunities with all the information you
           need. Its your future

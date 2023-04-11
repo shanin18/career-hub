@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <div className="bg-[#1A1919]">
       <div className="container mx-auto py-16 md:py-28 lg:py-32 px-2">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-7 ">
+        <div className="grid md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-7 ">
           <div>
             <h3 className="font-bold text-white text-2xl ">CareerBanao</h3>
             <div className="mt-4">
@@ -65,7 +65,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-b border-[#919191] my-12"></div>
-        <div className="flex justify-between">
+        <div className="flex justify-between gap-8">
             <p className="text-[#919191]">@2023 <span className="font-semibold">CareerBanao</span>. All Rights Reserved</p>
             <p className="text-[#919191]">Powered by <span className="font-semibold">CareerBanao</span></p>
         </div>
