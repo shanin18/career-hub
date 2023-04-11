@@ -75,9 +75,9 @@ const Header = () => {
                 </Link>
               </div>
             </div>
-          </div> : <div className="mx-2 lg:block">
-            <div className="lg:flex items-center justify-between ">
-              <div className="flex flex-col lg:flex-row gap-7 duration-500">
+          </div> : <div className="mx-2">
+            <div className="lg:flex items-center justify-between">
+              <div className="flex flex-col lg:flex-row gap-7">
                 <NavLink
                   to="/"
                   className={({ isActive }) =>
