@@ -1,7 +1,6 @@
 import React from "react";
 import logo from "../assets/logo1.png";
 import { Link, NavLink } from "react-router-dom";
-import Banner from "./Banner";
 
 const Header = () => {
   return (
@@ -55,7 +54,7 @@ const Header = () => {
         </div>
       </div>
     </nav>
-    <Banner></Banner>
+    
     </div>
     
   );

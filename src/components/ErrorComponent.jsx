@@ -8,7 +8,7 @@ const ErrorComponent = () => {
       <div>
         <h1 className="font-extrabold animation-text text-9xl">Oops!</h1>
         <p className="text-2xl text-center font-bold my-3">
-          {status} - {error.message}
+          {status} - {error?.message}
         </p>
         <p className="font-bold text-lg">
           The page you are looking for might have been removed <br /> had its
